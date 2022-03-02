@@ -25,7 +25,8 @@ Local bsLocal = new Local();
 
 # replace <browserstack-accesskey> with your key. You can also set an environment variable - "BROWSERSTACK_ACCESS_KEY".
 HashMap<String, String> bsLocalArgs = new HashMap<String, String>();
-bsLocalArgs.put("key", "<browserstack-accesskey>");bsLocalArgs.put("mitmProxyHost", "127.0.0.1");
+bsLocalArgs.put("key", "<browserstack-accesskey>");
+bsLocalArgs.put("mitmProxyHost", "127.0.0.1");
 bsLocalArgs.put("mitmProxyPort", "8000");
 bsLocalArgs.put("mitmProxyUser", "user");
 bsLocalArgs.put("mitmProxyPass", "password");
