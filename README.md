@@ -1,4 +1,4 @@
-# browserstack-local-java
+# browserstack-local-java(MITM)
 
 [![Build Status](https://travis-ci.org/browserstack/browserstack-local-java.svg?branch=master)](https://travis-ci.org/browserstack/browserstack-local-java)
 
